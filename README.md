@@ -129,6 +129,3 @@ All content is driven by PHP arrays at the top of `index.php`. No HTML to touch.
 - In production, consider adding CSRF tokens to forms and rate-limiting the handlers
 - For production email, replace the flat-file storage in handlers with `mail()` or an SMTP library (PHPMailer)
 
----
-
-Built with PHP <?php echo PHP_VERSION; ?> · © <?php echo date('Y'); ?> NexusAI Inc.
