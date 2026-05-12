@@ -1,6 +1,6 @@
-# NexusAI — Responsive PHP Landing Page
+# NexusAI - Responsive PHP Landing Page
 
-A fully responsive, multi-page landing page built with **PHP 8+**, vanilla CSS3, and vanilla JavaScript. No frameworks, no build tools — just drop it on any Apache/Nginx server.
+A fully responsive, multi-page landing page built with **PHP 8+**, vanilla CSS3, and vanilla JavaScript. No frameworks, no build tools - just drop it on any Apache/Nginx server.
 
 ---
 
